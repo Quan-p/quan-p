@@ -54,8 +54,8 @@
 <div align="center">
 
 <a href="https://github.com/quan-p/">
-  <img src="https://github-readme-stats.vercel.app/api?username=quan-p&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quan-p&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="300" alt="quan-p"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=quan-p&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quan-p&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" height="250" alt="quan-p"/>
 
 </a>
 </div>
