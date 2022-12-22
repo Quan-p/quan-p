@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Quan Pham </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+#Hi , I'm Quan Pham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ## About me
 
@@ -9,7 +9,7 @@
 - Learning new languages and creating my own personal projects.
 - Open for  a new job opportunity, this is [my resume]()
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
