@@ -24,7 +24,6 @@
    	![JavaScript](https://img.shields.io/badge/JavaScript-333333.svg?style=for-the-badge&logo=javascript&logoColor=white)
 	![SASS](https://img.shields.io/badge/SASS%20-333333.svg?style=for-the-badge&logo=Sass&logoColor=white)
 	![Webpack](https://img.shields.io/badge/webpack%20-333333.svg?style=for-the-badge&logo=Sass&logoColor=white)
-<br>   
     
 - **Back-End**:
 	
@@ -32,7 +31,6 @@
    	![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=white)
    	![MongoDB](https://img.shields.io/badge/mongodb-333333.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    
-<br>
 
 - **Softwares and Tools**:
 
@@ -42,8 +40,6 @@
 
 
 </p>
-
-<br>
 
 -----
 
