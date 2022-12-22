@@ -29,9 +29,8 @@
 - **Back-End**:
 	
 	![Node.js](https://img.shields.io/badge/node.js-333333.svg?style=for-the-badge&logo=node.js&logoColor=white)
-   	![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express.js&logoColor=white)
+   	![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=white)
    	![MongoDB](https://img.shields.io/badge/mongodb-333333.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-	![Mongoose](https://img.shields.io/badge/mongoose%20-333333.svg?style=for-the-badge&logo=mongoose&logoColor=white)
    
 <br>
 
