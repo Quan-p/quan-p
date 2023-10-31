@@ -5,7 +5,7 @@
 - A passionate Full-Stack developer
 - Currently looking to make the transition from public health to a software developer role
 - Learning new languages and creating my own personal projects.
-- Open for  a new job opportunity, this is [my resume](https://github.com/Quan-p/quan-p/blob/main/2023-01-03%20Quan%20Pham%20Resume.pdf)
+- Open for  a new job opportunity, this is [my resume]([https://github.com/Quan-p/quan-p/blob/main/Quan_Pham%20-%20Resume.pdf])
 
 <br>
 
