@@ -47,13 +47,13 @@
 <div align='left'>
 
 <a href="[https://www.linkedin.com/in/quan-phamm/](https://www.linkedin.com/in/quan-phamm/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Quan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+	<img src="https://img.shields.io/badge/linkedin:  Quan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 8px;"/>
 </a>
 
 <br>
 
 <a href="mailto:m.phamquan@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Quan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Quan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 8px;" />
 </a>
 
 </div>
