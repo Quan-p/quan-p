@@ -2,10 +2,10 @@
 
 ## About me
 
-- A passionate Full-Stack developer
-- Currently looking to make the transition from public health to a software developer role
-- Learning new languages and creating my own personal projects.
-- Open for  a new job opportunity, this is [my resume](https://github.com/Quan-p/quan-p/blob/main/Quan_Pham%20-%20Resume.pdf)
+- Dedicated web developer with a strong passion for creating innovative and user-friendly web applications.
+- Actively engaged in learning new front-end technologies and languages to enhance skill set.
+- Eager to showcase expertise through personal projects, demonstrating creativity and proficiency in web development.
+- Feel free to review my web developer journey on [my portfolio](https://github.com/Quan-p/quan-p/blob/main/Quan_Pham%20-%20Resume.pdf).
 
 <br>
 
